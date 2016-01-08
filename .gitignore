@@ -7,3 +7,4 @@ gulp-cache
 Thumbs.db
 .publish
 /build
+files
