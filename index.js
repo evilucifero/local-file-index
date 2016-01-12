@@ -47,7 +47,7 @@ allPathPromise.then(function(allPath) {
             if (v.word === now) {
               var newIndex = v.index;
               newIndex.push(i);
-              return { word: v.word, index: newIndex }；
+              return { word: v.word, index: newIndex };
             }
             else {
               return v;
